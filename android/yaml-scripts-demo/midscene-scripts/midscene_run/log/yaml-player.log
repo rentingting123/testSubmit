@@ -1,0 +1,5 @@
+[2025-12-30T11:33:35.670+08:00] setting output by script path D:\AI_TEST_Midscene\DEMO_ai\midscene-example\android\yaml-scripts-demo\midscene-scripts\midscene_run\output\maps-navigation-1767065615669.json
+[2025-12-30T11:40:44.221+08:00] setting output by script path D:\AI_TEST_Midscene\DEMO_ai\midscene-example\android\yaml-scripts-demo\midscene-scripts\midscene_run\output\maps-navigation-1767066044220.json
+[2025-12-30T11:40:44.427+08:00] playing step 0, flowItem={"aiAct":"open Maps app"}
+[2025-12-30T11:44:52.974+08:00] setting output by script path D:\AI_TEST_Midscene\DEMO_ai\midscene-example\android\yaml-scripts-demo\midscene-scripts\midscene_run\output\maps-navigation-1767066292973.json
+[2025-12-30T11:44:53.333+08:00] playing step 0, flowItem={"aiAct":"open Maps app"}

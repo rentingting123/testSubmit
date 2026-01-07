@@ -1,0 +1,9 @@
+android:
+  # launch: https://www.ebay.com
+  deviceId: '6HJDU19621023136'
+
+tasks:
+  - name: travel
+    flow:
+      - aiAct: 打开秦务员APP，登录，密码Aa111111
+      - aiAct: 判断是否登录成功

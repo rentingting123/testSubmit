@@ -1,0 +1,16 @@
+[2025-12-30T11:33:35.673+08:00] Initializing ADB with device ID: s4ey59ytbitot4yp
+[2025-12-30T11:33:35.677+08:00] adb shell wm,size
+[2025-12-30T11:33:35.741+08:00] ADB error with device s4ey59ytbitot4yp when calling shell: Error: Error executing adbExec. Original error: 'Command 'adb -P 5037 -s s4ey59ytbitot4yp shell wm size' exited with code 1'; Command output: adb.exe: device 's4ey59ytbitot4yp' not found
+
+[2025-12-30T11:40:44.223+08:00] Initializing ADB with device ID: 6HJDU19621023136
+[2025-12-30T11:40:44.228+08:00] adb shell wm,size
+[2025-12-30T11:40:44.335+08:00] adb shell wm,size end
+[2025-12-30T11:40:44.335+08:00] Using Physical size: 1080x2340
+[2025-12-30T11:40:44.335+08:00] adb shell dumpsys input | grep SurfaceOrientation
+[2025-12-30T11:40:44.423+08:00] adb shell dumpsys input | grep SurfaceOrientation end
+[2025-12-30T11:44:52.980+08:00] Initializing ADB with device ID: 6HJDU19621023136
+[2025-12-30T11:44:52.991+08:00] adb shell wm,size
+[2025-12-30T11:44:53.174+08:00] adb shell wm,size end
+[2025-12-30T11:44:53.174+08:00] Using Physical size: 1080x2340
+[2025-12-30T11:44:53.175+08:00] adb shell dumpsys input | grep SurfaceOrientation
+[2025-12-30T11:44:53.324+08:00] adb shell dumpsys input | grep SurfaceOrientation end
